@@ -1,1 +1,1 @@
-# Python-for-data-science-AI-and-develoment
+# Python-for-data-science-AI-and-development
